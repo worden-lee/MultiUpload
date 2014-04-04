@@ -1,0 +1,4 @@
+/**
+ * css that isn't there in 1.19 for the SpecialUpload stuff (from 1.22alpha)
+ */
+.htmlform-tip { color:#666666; font-size:x-small; padding: 0.2em 2em; }
